@@ -1,2 +1,2 @@
 # Find a Docotor Directory
-Doctor Directory Web App using Apache Cassandra data base which is column DB
+Doctor Directory Web App using Node.js and Apache Cassandra DB which is column DB
